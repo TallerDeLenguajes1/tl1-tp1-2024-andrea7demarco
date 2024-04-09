@@ -12,5 +12,6 @@ es un archivo de texto que le dice a Git qué otros archivos y carpetas de un pr
 - Subo ignorado.txt al repositorio
 - Dentro del archivo .gitignore agrego el archivo que quiero ignorar : /ignorado.txt 
 - Subo otra vez el archivo .gitignore al repositorio
-3.c) veo el .c , la carpeta de vscode, el readme y el .txt, el que no debería estar es la carpeta de vscode
+# **3.c)** veo el .c , la carpeta de vscode, el readme y el .txt, el que no debería estar es la carpeta de vscode
   
+# **4)** Son iguales porque la dirección de memoria almacenada por el puntero , accedo a través del puntero y a la dirección de memoria de la variable , accedo con & y la variable, que es su dirección de memoria.
